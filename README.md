@@ -4,6 +4,7 @@ This repository provides a fine-tuned BERT model that predicts the probability t
 
 ## Project Structure
 
+```
 DepressionAssess/
 │── model/                   # Stores the downloaded model files
 │── src/                     # Contains all scripts
@@ -12,6 +13,7 @@ DepressionAssess/
 │── notebooks/               # Jupyter notebooks for testing
 │── requirements.txt         # Required dependencies
 │── README.md                # Documentation
+```
 
 ## 🚀 How to Set Up & Use
 
