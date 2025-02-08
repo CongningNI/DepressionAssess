@@ -77,7 +77,7 @@ Predicted Score: 0.0464
 
 ## 📩 Contact
 For questions, open an **Issue** or reach out at:
-📧 **Email:** your.email@example.com  
-📂 **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+📧 **Email:** congning.ni@vanderbilt.edu 
+📂 **GitHub:** [CongningNI](https://github.com/CongningNI)
 
-oh yay
+
