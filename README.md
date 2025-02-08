@@ -20,7 +20,7 @@ DepressionAssess/
 ### 1️⃣ Clone This Repository
 If you haven't already:
 ```
-git clone https://github.com/YOUR_GITHUB_USERNAME/DepressionAssess.git
+git clone https://github.com/CongningNI/DepressionAssess.git
 cd DepressionAssess
 ```
 
